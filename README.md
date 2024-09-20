@@ -23,8 +23,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
   <img align="center" alt="C++" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Power BI" height="50" width="60" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" alt="Postman" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
   <img align="center" alt="PostgreSQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
