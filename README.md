@@ -1,6 +1,6 @@
 # 🐼 Eu sou o Valério, seja bem-vindo ao meu portfólio!
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em Python para análise de dados, criação de interfaces gráficas para meus projetos inovadores, além de Java para construir API's REST e realizar o back-end das aplicações. Estou sempre buscando novos desafios e oportunidades para expandir meus conhecimentos.
+Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em Python para análise de dados, criação de wireframes e protótipos com Figma para meus projetos , além de Java para construir API's REST e realizar o back-end das aplicações. Estou sempre buscando novos desafios e oportunidades para expandir meus conhecimentos.
 
 ---
 
